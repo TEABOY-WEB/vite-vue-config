@@ -6,6 +6,7 @@ const axios = ref('axios')
 
 <template>
   <div>{{ axios.value }}</div>
+  <div>heihei</div>
 </template>
 
 <style>
