@@ -25,6 +25,7 @@ module.exports = {
     'vue/no-multiple-template-root': 'off',
     'no-console': 'off',
     'no-plusplus': 'off',
+    'no-undef': 'off',
     'no-param-reassign': [
       'error',
       {
